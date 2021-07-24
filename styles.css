@@ -251,9 +251,10 @@ main{
   grid-area: a-header;
   text-align: center;
   color: rgb(240, 240, 21);
-  padding-bottom: 2rem;
+  padding: 2rem;
   text-decoration: underline;
   text-decoration-color: white;
+  animation: fit 3s ease-in;
 }
 .about-img {
   grid-area: a-img;
